@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "History Review",
+  "description": "Review daily history, spot good and bad habits.",
+  "version": "0.0.1",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "history"
+  ]
+}
